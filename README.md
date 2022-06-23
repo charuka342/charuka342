@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @charuka342
+- 👋 Hi, I’m charuka
 - 👀 I’m interested in learn coding
 - 🌱 I’m currently learning university of peradeniya
 - 💞️ I’m looking to collaborate on projects
